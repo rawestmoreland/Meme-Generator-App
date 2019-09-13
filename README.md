@@ -1,3 +1,3 @@
 # Meme Generator App
 
-A meme generator app buitl with react
+A meme generator app built with react
